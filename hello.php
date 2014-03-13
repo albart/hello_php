@@ -1,4 +1,4 @@
-<? php
+<?php
 $hello = "Hello World";
 $hello = "Hello World";
 printf($hello);
